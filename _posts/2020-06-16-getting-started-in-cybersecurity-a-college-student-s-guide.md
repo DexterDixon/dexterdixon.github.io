@@ -4,6 +4,7 @@ title: 'Getting Started in Cybersecurity: A College Student’s Guide'
 date: 2020-06-16 00:00 +0000
 categories: [Cybersecurity, Article]
 tags: [how-to, cybersecurity, dexters-lab, dexterdixon]
+pin: true
 image:
   path: assets/headers/getting-started-in-cybersecurity-header.png
   alt: Photo of students wearing backpacks on a college campus with post tile overlaid

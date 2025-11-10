@@ -4,6 +4,7 @@ title: Dual Bidirectional Bus Buffer
 date: 2019-12-26 00:00 +0000
 categories: [Engineering, Project]
 tags: [electrical-engineering, pcb, eagle-cad, robotics, dexters-lab, dexterdixon]
+pin: true
 image:
   path: assets/headers/dual-bidirectional-bus-buffer-header.png
   alt: Photo of a rendered dual bidirection bus buffer PCB

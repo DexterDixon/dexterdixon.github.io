@@ -4,6 +4,7 @@ title: ShiftBoard Update
 date: 2020-04-19 00:00 +0000
 categories: [Engineering, Project, Video]
 tags: [electrical-engineering, eagle-cad, microcontroller, robotics, stm32, dexters-lab, dexterdixon]
+pin: true
 image:
   path: assets/headers/shiftboard-update-header.png
   alt: Photo of rendered ShiftBoard PCB 
