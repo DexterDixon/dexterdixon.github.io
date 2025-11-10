@@ -1,8 +1,6 @@
 ---
-# the default layout is 'page'
+layout: redirect
 icon: fas fa-info-circle
-order: 4
+redirect_to: /posts/what-is-dexter-s-lab/
+order: 2
 ---
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
