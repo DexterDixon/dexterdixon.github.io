@@ -36,7 +36,7 @@
   border: 1px solid var(--card-border-color);
   border-radius: 8px;
   padding: 1rem;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  box-shadow: 0 2px 4px rgba(24, 113, 183, 0.05);
   transition: transform 0.2s ease;
 }
 
@@ -81,4 +81,26 @@
   border: 1px solid var(--card-border-color);
   background: var(--card-bg);
   white-space: nowrap;
+}
+
+body::after {
+  content: '';
+  position: fixed;
+  bottom: 9rem;
+  left: 3rem;
+  width: 160px;
+  height: 160px;
+  background-image: url('/assets/img/logo-transparent.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  opacity: 0.9;
+  pointer-events: none;
+  z-index: 999;
+}
+
+@media (max-width: 768px) {
+  body::after {
+    display: none;
+  }
 }
