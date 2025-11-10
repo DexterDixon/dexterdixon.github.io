@@ -5,7 +5,7 @@ date: 2019-09-02 00:00 +0000
 categories: [Engineering, Project, Video]
 tags: [electrical-engineering, programming, microcontroller, battery-pack, 3d-printing, robotics, dexters-lab, dexterdixon]
 image:
-  path: assets/headers/underwater-robot-header.jpg
+  path: assets/headers/underwater-robot-header.webp
   alt: Photo of underwater robot next to battery pack
 ---
 ### Estimated Read Time: > 1 minute

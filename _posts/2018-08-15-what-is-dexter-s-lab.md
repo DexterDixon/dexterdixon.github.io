@@ -5,7 +5,7 @@ date: 2018-08-15 00:00:00 +/-TTTT
 categories: [Announcement, Life]
 tags: [dexters-lab, dexterdixon]
 image:
-  path: assets/headers/what-is-dexters-lab.jpg
+  path: assets/headers/what-is-dexters-lab.webp
   alt: Photo of Dexter Demonstrating Magic Leaps AR Device
 ---
 ### Estimated Read Time: > 1 minute

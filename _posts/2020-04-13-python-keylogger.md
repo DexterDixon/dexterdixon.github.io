@@ -5,7 +5,7 @@ date: 2020-04-13 00:00 +0000
 categories: [Cybersecurity, Programming, Project]
 tags: [python, github, dexters-lab, dexterdixon]
 image:
-  path: assets/headers/python-keylogger-header.png
+  path: assets/headers/python-keylogger-header.webp
   alt: Photo of Python logo in front of an IDE in dark mode
 ---
 ### Estimated Read Time: > 1 minute

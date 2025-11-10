@@ -6,7 +6,7 @@ categories: [Cybersecurity, Article]
 tags: [how-to, cybersecurity, dexters-lab, dexterdixon]
 pin: true
 image:
-  path: assets/headers/getting-started-in-cybersecurity-header.png
+  path: assets/headers/getting-started-in-cybersecurity-header.webp
   alt: Photo of students wearing backpacks on a college campus with post tile overlaid
 ---
 ### Estimated Read Time: 4 - 6 minutes

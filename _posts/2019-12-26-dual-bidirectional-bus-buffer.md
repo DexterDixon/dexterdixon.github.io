@@ -6,7 +6,7 @@ categories: [Engineering, Project]
 tags: [electrical-engineering, pcb, eagle-cad, robotics, dexters-lab, dexterdixon]
 pin: true
 image:
-  path: assets/headers/dual-bidirectional-bus-buffer-header.png
+  path: assets/headers/dual-bidirectional-bus-buffer-header.webp
   alt: Photo of a rendered dual bidirection bus buffer PCB
 ---
 ### Estimated Read Time: 1 minute
@@ -15,11 +15,11 @@ In 2019, I was on a team with two fellow engineering students at FAU, and we bui
 
 
 <div class="post-gallery">
-  <a href="/assets/dual-bidirectional-bus-buffer/bus-buffer-trace.png">
-    <img src="/assets/dual-bidirectional-bus-buffer/bus-buffer-trace.png" alt="Bus Buffer Trace in Eagle CAD" loading="lazy">
+  <a href="/assets/dual-bidirectional-bus-buffer/bus-buffer-trace.webp">
+    <img src="/assets/dual-bidirectional-bus-buffer/bus-buffer-trace.webp" alt="Bus Buffer Trace in Eagle CAD" loading="lazy">
   </a>
-  <a href="/assets/dual-bidirectional-bus-buffer/bus-buffer-render.png">
-    <img src="/assets/dual-bidirectional-bus-buffer/bus-buffer-render.png" alt="Bus Buffer Render in Eagle CAD" loading="lazy">
+  <a href="/assets/dual-bidirectional-bus-buffer/bus-buffer-render.webp">
+    <img src="/assets/dual-bidirectional-bus-buffer/bus-buffer-render.webp" alt="Bus Buffer Render in Eagle CAD" loading="lazy">
   </a>
 </div>
 

@@ -6,7 +6,7 @@ categories: [Engineering, Project, Video]
 tags: [electrical-engineering, eagle-cad, microcontroller, robotics, stm32, dexters-lab, dexterdixon]
 pin: true
 image:
-  path: assets/headers/shiftboard-update-header.png
+  path: assets/headers/shiftboard-update-header.webp
   alt: Photo of rendered ShiftBoard PCB 
 ---
 ### Estimated Read Time: > 1 minute

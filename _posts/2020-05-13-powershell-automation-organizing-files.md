@@ -5,7 +5,7 @@ date: 2020-05-13 00:00 +0000
 categories: [Programming, Project]
 tags: [powershell, github, automation, dexters-lab, dexterdixon]
 image:
-  path: assets/headers/powershell-automation-header.png
+  path: assets/headers/powershell-automation-header.webp
   alt: Photo of Powershell IDE with Post Title on top
 ---
 ### Estimated Read Time: > 1 minute

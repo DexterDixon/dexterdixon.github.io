@@ -5,7 +5,7 @@ date: 2020-10-14 00:00 +0000
 categories: [Networking, Engineering, Project]
 tags: [networking, ubiquiti, unifi, dexters-lab, dexterdixon]
 image:
-  path: assets/headers/project-hifi-header.png
+  path: assets/headers/project-hifi-header.webp
   alt: Photo of gray city with Ubiquiti logo and devices overlaid with post title
 ---
 ### Estimated Read Time: 3 minutes

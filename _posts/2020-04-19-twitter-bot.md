@@ -5,7 +5,7 @@ date: 2020-04-19 00:00 +0000
 categories: [Programming, Project, Video]
 tags: [python, github, selenium, automation, dexters-lab, dexterdixon]
 image:
-  path: assets/headers/twitter-bot-header.png
+  path: assets/headers/twitter-bot-header.webp
   alt: Photo of VSCode Window with Post Title overlaid
 ---
 ### Estimated Read Time: > 1 minute
