@@ -26,31 +26,31 @@ Our board will be able to detect the distribution of a uses weight. When the use
 Currently, this is still a work in progress, and our next design goals are to create our final deck design, make a removable battery pack, and start development on our phone app.
 
 <div class="post-gallery">
-  <a href="assets/shiftboard/shift-board-load-cells.jpg">
-    <img src="assets/shiftboard/shift-board-load-cells.jpg" alt="Image of assembled load cell sensors on deck" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-load-cells.jpg">
+    <img src="/assets/shiftboard/shift-board-load-cells.jpg" alt="Image of assembled load cell sensors on deck" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-deck-prototype.jpg">
-    <img src="assets/shiftboard/shift-board-deck-prototype.jpg" alt="Image of finished deck prototype" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-deck-prototype.jpg">
+    <img src="/assets/shiftboard/shift-board-deck-prototype.jpg" alt="Image of finished deck prototype" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-wood-glue.jpg">
-    <img src="assets/shiftboard/shift-board-wood-glue.jpg" alt="Image of wood for deck being glued  together" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-wood-glue.jpg">
+    <img src="/assets/shiftboard/shift-board-wood-glue.jpg" alt="Image of wood for deck being glued  together" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-battery-pack.jpg">
-    <img src="assets/shiftboard/shift-board-battery-pack.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-battery-pack.jpg">
+    <img src="/assets/shiftboard/shift-board-battery-pack.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-battery-pack2.jpg">
-    <img src="assets/shiftboard/shift-board-battery-pack2.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-battery-pack2.jpg">
+    <img src="/assets/shiftboard/shift-board-battery-pack2.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-battery-pack3.jpg">
-    <img src="assets/shiftboard/shift-board-battery-pack3.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-battery-pack3.jpg">
+    <img src="/assets/shiftboard/shift-board-battery-pack3.jpg" alt="Image of ShiftBoard Battery Pack" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-construction.jpg">
-    <img src="assets/shiftboard/shift-board-construction.jpg" alt="Image of ShiftBoard Assemply" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-construction.jpg">
+    <img src="/assets/shiftboard/shift-board-construction.jpg" alt="Image of ShiftBoard Assemply" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-render.jpg">
-    <img src="assets/shiftboard/shift-board-render.jpg" alt="Image of deck render" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-render.jpg">
+    <img src="/assets/shiftboard/shift-board-render.jpg" alt="Image of deck render" loading="lazy">
   </a>
-  <a href="assets/shiftboard/shift-board-3d-printer.jpg">
-    <img src="assets/shiftboard/shift-board-3d-printer.jpg" alt="3D Printing Load Cell Housing" loading="lazy">
+  <a href="/assets/shiftboard/shift-board-3d-printer.jpg">
+    <img src="/assets/shiftboard/shift-board-3d-printer.jpg" alt="3D Printing Load Cell Housing" loading="lazy">
   </a>
 </div>
