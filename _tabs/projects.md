@@ -6,7 +6,7 @@ order: 1
 <div class="projects-grid">
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/shiftboard">ShiftBoard</a></h3>
+    <h3><a href="/posts/shiftboard">ShiftBoard</a></h3>
     <p>A weight-sensing electric skateboard.</p>
 
     <div class="project-tech-wrapper">
@@ -21,7 +21,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/5-day-underwater-robot-build">Underwater Robot Build</a></h3>
+    <h3><a href="/posts/5-day-underwater-robot-build">Underwater Robot Build</a></h3>
     <p>5 day underwater robot build for MATE ROV.</p>
 
     <div class="project-tech-wrapper">
@@ -36,7 +36,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/dual-bidirectional-bus-buffer">Dual Bidirectional Bus Buffer</a></h3>
+    <h3><a href="/posts/dual-bidirectional-bus-buffer">Dual Bidirectional Bus Buffer</a></h3>
     <p>Dual Bidirectional I2C Bus and SMBus Repeater PCB.</p>
 
     <div class="project-tech-wrapper">
@@ -50,7 +50,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/python-keylogger">Python Keylogger</a></h3>
+    <h3><a href="/posts/python-keylogger">Python Keylogger</a></h3>
     <p>Python keylogger program.</p>
 
     <div class="project-tech-wrapper">
@@ -62,7 +62,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/twitter-bot">Twitter Bot</a></h3>
+    <h3><a href="/posts/twitter-bot">Twitter Bot</a></h3>
     <p>Twitter bot built with Selenium.</p>
 
     <div class="project-tech-wrapper">
@@ -75,7 +75,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/powershell-automation-organizing-files">File Organizer</a></h3>
+    <h3><a href="/posts/powershell-automation-organizing-files">File Organizer</a></h3>
     <p>Windows file organizer.</p>
 
     <div class="project-tech-wrapper">
@@ -87,7 +87,7 @@ order: 1
   </div>
 
   <div class="project-card">
-    <h3><a href="https://dexterdixon.com/posts/project-hifi-managing-a-network/">Project Hifi</a></h3>
+    <h3><a href="/posts/project-hifi-managing-a-network">Project Hifi</a></h3>
     <p>Design and built large scale network.</p>
 
     <div class="project-tech-wrapper">

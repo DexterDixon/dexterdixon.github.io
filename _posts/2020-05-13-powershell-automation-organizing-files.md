@@ -4,6 +4,7 @@ title: 'PowerShell Automation: Organizing Files'
 date: 2020-05-13 00:00 +0000
 categories: [Programming, Project]
 tags: [powershell, github, automation, dexters-lab, dexterdixon]
+description: I created a PowerShell script to learn PowerShell!
 image:
   path: assets/headers/powershell-automation-header.webp
   alt: Photo of Powershell IDE with Post Title on top

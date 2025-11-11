@@ -4,6 +4,7 @@ title: '5 Day Underwater Robot Build'
 date: 2019-09-02 00:00 +0000
 categories: [Engineering, Project, Video]
 tags: [electrical-engineering, programming, microcontroller, battery-pack, 3d-printing, robotics, dexters-lab, dexterdixon]
+description: We built an underwater robot in 5 days!
 image:
   path: assets/headers/underwater-robot-header.webp
   alt: Photo of underwater robot next to battery pack

@@ -4,6 +4,7 @@ title: 'Project HiFi: Managing a Network'
 date: 2020-10-14 00:00 +0000
 categories: [Networking, Engineering, Project]
 tags: [networking, ubiquiti, unifi, dexters-lab, dexterdixon]
+description: How I designed a large-scale network using Uqiquiti's ecosystem!
 image:
   path: assets/headers/project-hifi-header.webp
   alt: Photo of gray city with Ubiquiti logo and devices overlaid with post title

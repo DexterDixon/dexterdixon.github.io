@@ -4,6 +4,7 @@ title: Python Keylogger
 date: 2020-04-13 00:00 +0000
 categories: [Cybersecurity, Programming, Project]
 tags: [python, github, dexters-lab, dexterdixon]
+description: I created a keylogger to freshen up on Python skills.
 image:
   path: assets/headers/python-keylogger-header.webp
   alt: Photo of Python logo in front of an IDE in dark mode

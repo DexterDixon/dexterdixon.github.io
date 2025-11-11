@@ -4,6 +4,7 @@ title: What is Dexter's Lab?
 date: 2018-08-15 00:00:00 +/-TTTT
 categories: [Announcement, Life]
 tags: [dexters-lab, dexterdixon]
+description: What is the purpose of Dexter's Lab?
 image:
   path: assets/headers/what-is-dexters-lab.webp
   alt: Photo of Dexter Demonstrating Magic Leaps AR Device

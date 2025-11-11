@@ -4,6 +4,7 @@ title: ShiftBoard
 date: 2018-08-16 00:00 +0000
 categories: [Engineering, Project]
 tags: [electrical-engineering, prototyping, microcontroller, load-cells, dexters-lab, dexterdixon]
+description: We created the ShiftBoard, which is a weight-sensing electric skateboard with assisted navigation.
 image:
   path: assets/headers/shiftboard-header.webp
   alt: Photo of ShiftBoard Prototype

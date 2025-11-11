@@ -5,6 +5,7 @@ date: 2020-06-16 00:00 +0000
 categories: [Cybersecurity, Article]
 tags: [how-to, cybersecurity, dexters-lab, dexterdixon]
 pin: true
+description: My thoughts on the best way to get into the field!
 image:
   path: assets/headers/getting-started-in-cybersecurity-header.webp
   alt: Photo of students wearing backpacks on a college campus with post tile overlaid

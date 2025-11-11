@@ -4,6 +4,7 @@ title: 'CompTIA Security+ Exam Tips'
 date: 2020-07-02 00:00 +0000
 categories: [Cybersecurity, Article]
 tags: [certifications, comptia, cybersecurity, dexters-lab, dexterdixon]
+description: Tips and tricks that helped me pass CompTIA Security+.
 image:
   path: assets/headers/comptia-security-plus-exam-tips-header.webp
   alt: Photo of CompTIA Security plus logo with title of post

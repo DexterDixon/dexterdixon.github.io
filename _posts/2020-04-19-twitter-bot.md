@@ -4,6 +4,7 @@ title: Twitter Bot
 date: 2020-04-19 00:00 +0000
 categories: [Programming, Project, Video]
 tags: [python, github, selenium, automation, dexters-lab, dexterdixon]
+description: I created a Twitter bot to familiarize myself with Selenium!
 image:
   path: assets/headers/twitter-bot-header.webp
   alt: Photo of VSCode Window with Post Title overlaid
